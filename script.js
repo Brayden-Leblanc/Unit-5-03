@@ -1,6 +1,5 @@
-document.getElementById ("message")
-.addEventListener ("click",buttonOn)
+document.getElementById('message').addEventListener('click', buttonOn)
 
-function buttonOn() {
-alert ("Hello")
+function buttonOn () {
+  alert ('Hello')
 }
